@@ -64,11 +64,10 @@ header{
 .LogButton{
     color: black;
     background-color: white;
-    font-size: 16px;
     text-align: right;
-    border: 10px solid white;
+    border: 15px solid white;
     border-radius: 25px;
-    font-size: 10px
+    font-size: 15px
     
 }
 .button:hover{
@@ -298,7 +297,7 @@ hr{
     margin-bottom: 50px;
 }
 
-#signup{
+.signup{
     color: white;
     background-color: #7289da;
     border: 10px solid #7289da;
