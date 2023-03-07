@@ -63,10 +63,11 @@ header{
 }
 .LogButton{
     color: black;
+    font-size: 1em;
     text-align: right;
     background-color: white;
-    border: 5px solid white;
-    border-radius: 13px;
+    border: 10px solid white;
+    border-radius: 25px;
 }
 
 .bluebox{
@@ -276,11 +277,7 @@ li{
 }
 
 hr{
-    border: 1px solid #fefeff;
-}
-
-.footerBottom{
-    background-color:#23272A;
+    border: 1px solid#fefeff;
 }
 
 .footerbox{
@@ -289,13 +286,17 @@ hr{
     justify-content: space-between;
     align-items: center;
     min-height: 85px;
-    background-color: #7FFFD4;
 }
 
-.footerColumn{
-    padding: 0,5em;
-    background-color: lightpink;
-    border: 1px dashed black;
-    width: 70px;
-    height: 33px;
+.footerColumn {
+    padding: 0.5em;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+#signup{
+    color: white;
+    background-color: #7289da;
+    border: 10px solid #7289da;
+    border-radius: 20px;
 }
