@@ -104,7 +104,7 @@ h1{
     font-weight: lighter;
     text-align: center;
     justify-content: center;
-    padding: 30px;
+    margin: 30px 50px;
 }
 
 .chooseBut{
@@ -185,6 +185,7 @@ main > div{
     width: 1190px;
     height: 905px;
     margin: auto;
+    padding: 30px;
     
 }
 
@@ -209,6 +210,7 @@ main > div{
 }
 .imgContainer{
     text-align: center;
+    font-size: 18px;
     justify-content: center;
     align-content: center;
     color: black;
@@ -216,7 +218,7 @@ main > div{
 .download{
     color: white;
     font-size: 1rem;
-    margin-top: 25px;
+    margin-top: 10px;
     border: 20px solid #8ea1e1;
     background-color: #8ea1e1;
     border-radius: 30px;
@@ -236,6 +238,7 @@ footer{
     font-size: 35px;
     color: #7289da;
 }
+
 
 #ita{
     width: 35px;
@@ -272,7 +275,7 @@ h3{
 }
 li{
     list-style: none;
-    line-height: 0.5;
+    row-gap: 0.5;
     margin: 30px;
     font-size: 15px;
     font-weight: 500;
